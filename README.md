@@ -1,2 +1,2 @@
 # ms-bot
-a (test) chat bot using microsoft bot framework 
+This is a (test) chat bot implementation for personal purposes, using microsoft bot framework.		
